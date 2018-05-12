@@ -1,0 +1,25 @@
+_repo: De-vliegende-Hollander_34391
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Visser, Piet
+    gutenberg_agent_id: '36309'
+    url: http://www.gutenberg.org/2009/agents/36309
+description: ''
+gutenberg_issued: '2010-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34391'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Sailing ships -- Juvenile fiction'
+- !lcsh 'Sea stories'
+title: De vliegende Hollander
+url: http://www.gutenberg.org/ebooks/34391
